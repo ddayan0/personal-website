@@ -7,7 +7,7 @@ import {
   Link
 } from "react-router-dom";
 import WelcomeBox from "./components/WelcomeBox"
-
+import "98.css"
 
 function App() {
   return (

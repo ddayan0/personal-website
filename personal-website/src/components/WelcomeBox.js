@@ -2,9 +2,6 @@ import React from 'react';
 import "98.css"
 import './WelcomeBox.css'
 class WelcomeBox extends React.Component{
-    handleClick = () => {
-        window.open("/github")
-    }
     render(){
         return(
             <div class="window" >
