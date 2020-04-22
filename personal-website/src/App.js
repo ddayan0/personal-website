@@ -6,15 +6,14 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import WelcomeBox from "./components/WelcomeBox"
+import Main from "./containers/Main"
 import "98.css"
 
 function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" component={WelcomeBox}></Route>
-        {/* <Route path="/github" component={() => {window.location.href = 'https://www.github.com/ddayan0'; return null;}}></Route> */}
+        <Route path="/" component={Main}></Route>
       </Switch>
     </Router>
   );

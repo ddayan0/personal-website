@@ -4,7 +4,7 @@ body{
 }
 .window{
     width: 300px;
-    position: absolute;
+    position: fixed;
     right: 400px;
     left: 840px;
     width: 300px;
