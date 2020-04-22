@@ -14,6 +14,7 @@ function App() {
     <Router>
       <Switch>
         <Route path="/" component={WelcomeBox}></Route>
+        {/* <Route path="/github" component={() => {window.location.href = 'https://www.github.com/ddayan0'; return null;}}></Route> */}
       </Switch>
     </Router>
   );
