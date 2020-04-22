@@ -1,0 +1,12 @@
+body{
+    background-image: url(win98bg.png);
+    padding-top: 200px;
+}
+.window{
+    width: 300px;
+    position: absolute;
+    right: 400px;
+    left: 840px;
+    width: 300px;
+}
+
