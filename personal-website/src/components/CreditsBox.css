@@ -1,7 +1,9 @@
 .window{
     width: 300px;
     position: absolute;
-    right: 400px;
-    left: 840px;
+    /* right: 400px;
+    left: 840px; */
+    justify-content: center;
+    align-items: center;
     width: 300px;
 }

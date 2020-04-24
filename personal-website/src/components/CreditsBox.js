@@ -12,8 +12,8 @@ class CreditsBox extends React.Component{
                 </div>
                 <div class="window-body">
                     <p>Made in React using 98.css</p>
-                    <h4>https://reactjs.org/</h4>
-                    <h4>https://github.com/jdan/98.css</h4>
+                    <p>https://reactjs.org/</p>
+                    <p>https://github.com/jdan/98.css</p>
                 </div>
             </div>
         );

@@ -8,6 +8,7 @@ import './Main.css'
 
 const credStyle = {
     padding: '200px'
+
   };
 class Main extends React.Component{
     render(){
