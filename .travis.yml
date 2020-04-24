@@ -1,7 +1,8 @@
+
 language: node_js
 node_js: node
 cache: npm
 script:
-  - npm test
+  - cd personal-website/ ; npm test
 after_success:
-  - npm run coverage
+  - cd personal-website/ ; npm run coverage
