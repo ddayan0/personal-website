@@ -13,8 +13,8 @@ class Main extends React.Component{
     render(){
         return(
             <div>
-                <WelcomeBox></WelcomeBox>
-                <div style={credStyle}><CreditsBox></CreditsBox></div> 
+                <center><WelcomeBox></WelcomeBox></center>
+                <center><div style={credStyle}><CreditsBox></CreditsBox></div></center>
             </div>
 
         );
