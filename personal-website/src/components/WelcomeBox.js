@@ -18,6 +18,7 @@ class WelcomeBox extends React.Component{
                         <button formAction="https://www.github.com/ddayan0">Github</button>
                         <button formAction="mailto:dennisdayanwork@gmail.com">Email</button>
                         <button formAction="https://twitter.com/DayanDennis">Twitter</button>
+                        <button formAction="https://www.linkedin.com/in/dennis-dayan-2006211a9/">LinkedIn</button>
                     </form>
                 </div>
             </div>
